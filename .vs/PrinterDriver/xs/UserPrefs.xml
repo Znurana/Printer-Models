@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F4DF7299-C692-44DB-B95B-FF0C269FB26B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="67" />
+      <File FileName="Printer.cs" />
+      <File FileName="ISingleSidePrint.cs" />
+      <File FileName="IDoubleSidePrint.cs" />
+      <File FileName="PrinterNTH02.cs" />
+      <File FileName="PrinterNTH03.cs" />
+      <File FileName="IFaxPrinter.cs" />
+      <File FileName="PrinterNTH01.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrinterDriver" expanded="True">
+            <Node name="PrinterDriver" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrinterDriver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

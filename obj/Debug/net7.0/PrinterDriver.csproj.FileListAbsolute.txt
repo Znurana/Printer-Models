@@ -1,0 +1,15 @@
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/bin/Debug/net7.0/PrinterDriver
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/bin/Debug/net7.0/PrinterDriver.deps.json
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/bin/Debug/net7.0/PrinterDriver.runtimeconfig.json
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/bin/Debug/net7.0/PrinterDriver.dll
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/bin/Debug/net7.0/PrinterDriver.pdb
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.csproj.AssemblyReference.cache
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.AssemblyInfoInputs.cache
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.AssemblyInfo.cs
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.csproj.CoreCompileInputs.cache
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.dll
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/refint/PrinterDriver.dll
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.pdb
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/PrinterDriver.genruntimeconfig.cache
+/Users/nuranazeynalli/Desktop/Project/PrinterDriver/obj/Debug/net7.0/ref/PrinterDriver.dll
